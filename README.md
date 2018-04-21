@@ -8,7 +8,7 @@
       <p>Test</p>
       <form method="get|post">
         <input/>
-		<input type="button"/>
+		<button/>
       </form>
     </body>
 </html>
